@@ -1,2 +1,5 @@
 # item-shop
-i could have hosted this on my server but github is free - twin1dev
+
+You change the items in shop.json by their id and give them a price as number,
+If you want to add more items just add another object.
+If you want to remove one do the the other way.
